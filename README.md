@@ -6,7 +6,7 @@ This is a sample Java app to discover code for 12 factors, test pipelines and pl
 - Create and run procet, cjheck in to GitHub as learning Github
 - Then build in GitHib with Actions and deploy to Azure
 
-Then all kinds of fun
+Then all kinds of fun, like adding Vue.js, or config
 
 
 
